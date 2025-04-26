@@ -1,0 +1,3 @@
+Which format is best for web PNG or JPG?
+PNG vs JPG: which format is better for your website?
+The general rule is to use JPGs for photographs, images that don't have a transparent background, and other memory intensive files. And to choose PNGs for graphics, files with transparent backgrounds, and other images where clarity and color vibrancy are important

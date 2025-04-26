@@ -1,0 +1,68 @@
+#contenidoProducto
+{
+}
+
+#closeProducto
+{
+    position: absolute;
+    margin-top: 25px;
+    opacity: 0.5;
+}
+
+#closeProducto img
+{
+    width: 50px;
+}
+
+#closeProducto:hover
+{
+    opacity: 1.0;
+}
+
+#titulo
+{
+    display: block;
+    text-align: center;
+    margin: 20px 0;
+
+    font-weight: bolder;
+    font-size: 250%;
+    white-space: nowrap;
+}
+
+#presentation
+{
+    width: 100%;
+    display: block;
+    text-align: center;
+    margin: 2px 0;
+}
+
+#presentation img
+{    
+    display: block;
+    width: auto;
+    height: auto;
+    max-width: 75%;
+    max-height: 69vh;
+    margin: 0 auto;
+}
+
+#galeria
+{
+    width: 100%;
+    display: block;
+    text-align: center;
+    margin: 2px 0;
+}
+
+#galeria img
+{
+    width: 25%;
+    margin: 5%;
+}
+
+#informacion
+{
+    margin: 20px;
+}
