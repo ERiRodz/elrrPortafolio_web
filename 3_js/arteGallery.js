@@ -1,4 +1,4 @@
-let artePath = "../5_Contenido/Arte/";
+let artePath = "5_Contenido/Arte/";
 let arteInfo = 
 [
     {

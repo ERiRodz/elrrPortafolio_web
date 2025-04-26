@@ -10,9 +10,9 @@ function mathEntryInfo (nombre, portada)
 
 // Each entry in the math gallery.
 // mathEntry[i] = new mathEntryInfo("", "");
-mathEntry[0] = new mathEntryInfo("EVG", "../5_Contenido/Math/EVG/portada.png");
-mathEntry[1] = new mathEntryInfo("EVG", "../5_Contenido/Math/EVG/portada.png");
-mathEntry[2] = new mathEntryInfo("EVG", "../5_Contenido/Math/EVG/portada.png");
-mathEntry[3] = new mathEntryInfo("EVG", "../5_Contenido/Math/EVG/portada.png");
-mathEntry[4] = new mathEntryInfo("EVG", "../5_Contenido/Math/EVG/portada.png");
-mathEntry[5] = new mathEntryInfo("EVG", "../5_Contenido/Math/EVG/portada.png");
+mathEntry[0] = new mathEntryInfo("EVG", "5_Contenido/Math/EVG/portada.png");
+mathEntry[1] = new mathEntryInfo("EVG", "5_Contenido/Math/EVG/portada.png");
+mathEntry[2] = new mathEntryInfo("EVG", "5_Contenido/Math/EVG/portada.png");
+mathEntry[3] = new mathEntryInfo("EVG", "5_Contenido/Math/EVG/portada.png");
+mathEntry[4] = new mathEntryInfo("EVG", "5_Contenido/Math/EVG/portada.png");
+mathEntry[5] = new mathEntryInfo("EVG", "5_Contenido/Math/EVG/portada.png");

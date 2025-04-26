@@ -22,15 +22,15 @@ let estructuraInfo =
     nav_sec:
     '<div class="navSecContainer">' +
         '<div id="mathButton" onclick=\'manageSection("math", mathShown)\'><div class="texto_main navButton">Math</div></div>' +
-        '<img src="../4_img/Geometria/DownYellowTriangle.png" alt="DownYellowTriangle" class="DYTriangle center" id="mathArrow">' +
+        '<img src="4_img/Geometria/DownYellowTriangle.png" alt="DownYellowTriangle" class="DYTriangle center" id="mathArrow">' +
     '</div>' +
     '<div class="navSecContainer">' +
         '<div id="gamesButton" onclick=\'manageSection("games", gamesShown)\'><div class="texto_main navButton">Games</div></div>' +
-        '<img src="../4_img/Geometria/DownYellowTriangle.png" alt="DownYellowTriangle" class="DYTriangle center" id="gamesArrow">' +
+        '<img src="4_img/Geometria/DownYellowTriangle.png" alt="DownYellowTriangle" class="DYTriangle center" id="gamesArrow">' +
     '</div>' +
     '<div class="navSecContainer">' +
         '<div id="arteButton" onclick=\'manageSection("arte", arteShown)\'><div class="texto_main navButton">Arte</div></div>' +
-        '<img src="../4_img/Geometria/DownYellowTriangle.png" alt="DownYellowTriangle" class="DYTriangle center" id="arteArrow">' +
+        '<img src="4_img/Geometria/DownYellowTriangle.png" alt="DownYellowTriangle" class="DYTriangle center" id="arteArrow">' +
     '</div>'
     ,
     panel:

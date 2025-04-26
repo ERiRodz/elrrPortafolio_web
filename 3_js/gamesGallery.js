@@ -10,9 +10,9 @@ function GamesEntryInfo (nombre, portada)
 
 // Each entry in the Games gallery.
 // gamesEntry[i] = new GamesEntryInfo("", "");
-gamesEntry[0] = new GamesEntryInfo("ElPatio2D", "../5_Contenido/Games/ElPatio2D/portada.png");
-gamesEntry[1] = new GamesEntryInfo("ElPatio2D", "../5_Contenido/Games/ElPatio2D/portada.png");
-gamesEntry[2] = new GamesEntryInfo("ElPatio2D", "../5_Contenido/Games/ElPatio2D/portada.png");
-gamesEntry[3] = new GamesEntryInfo("ElPatio2D", "../5_Contenido/Games/ElPatio2D/portada.png");
-gamesEntry[4] = new GamesEntryInfo("ElPatio2D", "../5_Contenido/Games/ElPatio2D/portada.png");
-gamesEntry[5] = new GamesEntryInfo("ElPatio2D", "../5_Contenido/Games/ElPatio2D/portada.png");
+gamesEntry[0] = new GamesEntryInfo("ElPatio2D", "5_Contenido/Games/ElPatio2D/portada.png");
+gamesEntry[1] = new GamesEntryInfo("ElPatio2D", "5_Contenido/Games/ElPatio2D/portada.png");
+gamesEntry[2] = new GamesEntryInfo("ElPatio2D", "5_Contenido/Games/ElPatio2D/portada.png");
+gamesEntry[3] = new GamesEntryInfo("ElPatio2D", "5_Contenido/Games/ElPatio2D/portada.png");
+gamesEntry[4] = new GamesEntryInfo("ElPatio2D", "5_Contenido/Games/ElPatio2D/portada.png");
+gamesEntry[5] = new GamesEntryInfo("ElPatio2D", "5_Contenido/Games/ElPatio2D/portada.png");

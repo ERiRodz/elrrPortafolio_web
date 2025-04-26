@@ -107,7 +107,7 @@ const createProducto = (productoSection, nombre, fecha, producto, galeria, info)
     let closeButton = document.createElement("div");
     let closeButtonIcon = document.createElement("img");
 
-    closeButtonIcon.setAttribute("src", "../4_img/Geometria/buttonClose_Back2.png");
+    closeButtonIcon.setAttribute("src", "4_img/Geometria/buttonClose_Back2.png");
     closeButtonIcon.setAttribute("alt", "closePrducto");
 
     closeButton.setAttribute("id", "closeProducto");
@@ -156,7 +156,7 @@ const createProducto = (productoSection, nombre, fecha, producto, galeria, info)
     {
         let gal = document.createElement("img");
         
-        gal.setAttribute("src", "../5_Contenido/Arte/" + nombre + "/producto" + galeria[i] + ".jpg");
+        gal.setAttribute("src", "5_Contenido/Arte/" + nombre + "/producto" + galeria[i] + ".jpg");
         gal.setAttribute("alt", "/producto" + galeria[i]);
 
         galeriaContenido.appendChild(gal);
